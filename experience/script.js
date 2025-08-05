@@ -68,8 +68,8 @@ function(){
         document.title = "Experience | Portfolio Ayan Karak";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
-    else {
-        document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png");
-    }
+    // else {
+    //     document.title = "Come Back To Portfolio";
+    //     $("#favicon").attr("href","/assets/images/favhand.png");
+    // }
 });
