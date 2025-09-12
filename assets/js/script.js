@@ -62,10 +62,10 @@ document.addEventListener('visibilitychange',
             document.title = "Portfolio | Ayan Karak";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
-        // else {
-        //     document.title = "Come Back To Portfolio";
-        //     $("#favicon").attr("href", "assets/images/favhand.png");
-        // }
+        else {
+            document.title = "Come Back To Portfolio";
+            $("#favicon").attr("href", "assets/images/favhand.png");
+        }
     });
 
 
@@ -190,7 +190,7 @@ document.onkeydown = function (e) {
     }
 }
 
-//<!--Start of Tawk.to Script-->
+// <!--Start of Tawk.to Script-->
 
 // var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 // (function(){
@@ -202,7 +202,7 @@ document.onkeydown = function (e) {
 // s0.parentNode.insertBefore(s1,s0);
 // })();
 
-//<!--End of Tawk.to Script-->
+// <!--End of Tawk.to Script-->
 
 
 /* ===== SCROLL REVEAL ANIMATION ===== */
