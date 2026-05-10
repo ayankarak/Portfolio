@@ -299,10 +299,10 @@ header .navbar ul li a:hover{
   }
 }
 @keyframes pound{
-  to{
-    transform: scale(1.1);
-}
-}
+    to{
+      transform: scale(1.1);
+    }
+  }
 
 @media(max-width:450px){
   .footer .box-container .box{
