@@ -119,6 +119,7 @@ particlesJS('particles-js',
         }
       }
     },
+    
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
